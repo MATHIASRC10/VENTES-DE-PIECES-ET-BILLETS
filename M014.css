@@ -1,0 +1,36 @@
+body{
+
+
+}
+
+h1{
+	margin-top: 0px;
+	font-size: 40px;
+	margin-left: 300px;
+}
+.M014{
+	border-radius: 10px;
+	background-color: lightgrey;
+	margin-left: 15px;
+	display: flex;
+	margin: 10px;
+	margin-top: 90px;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-right: 10px;
+	cursor: pointer;
+
+}
+.M014 img{
+	padding: 10px;
+	width: 330px;
+	border-radius: 20px;
+}
+
+h3{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+}

@@ -1,0 +1,15 @@
+body{
+	background-color: white;
+
+}
+
+h1{
+	font-size: 40px;
+	margin-left: 350px;
+	display flex: flex;
+	flex-wrap: wrap;
+}
+
+.mail{
+	text-decoration: none;
+}

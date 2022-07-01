@@ -1,0 +1,18 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+div{
+
+	background-color: grey;
+	position: sticky;
+	padding: 20px;
+	top: 0;
+	
+}
+
+#h2{
+	font-size: 20px;
+
+}
